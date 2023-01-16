@@ -1,4 +1,4 @@
-# Projeto Cordel Xilogravura Parallax
+# Projeto Página Web Utilizando Efeito Parallax
 
 * O que é? 
   * Criação de página web responsiva utilizando **HTML** e **CSS** implementando imagens com efeito parallax.
