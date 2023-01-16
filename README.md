@@ -17,18 +17,14 @@
 
 
 ## Conceitos utilizados
-  * Criação de Listas.
-  * Aplicação de Bordas.
-  * Redirecionamentos de links para páginas externas.
-  * Ajuste de Imagens Responsivas ao tamanho da tela.
-  * Vídeo Responsivo de link externo (embed code).
+
+  * Implementação de Imagens de Fundo Responsivas utilizando efeito parallax
+  * Redirecionamentos de link para página externa.
   * Uso de variaveis em CSS
-  * Animação utilizando Hover na barra de navegação, nos links e nas palavras destacadas.
-  * Fade (linear-gradiente) na colocação de fundos e barras.
-  * Tradução de nomes em inglês utilizando Abreviation Element <abbr>.
-  * Utilização de fontes externas dentro do CSS.
+  * Animação utilizando Hover em links.
+  * Utilização de fontes externas importadas para dentro do CSS.
 
 Aplicado conceitos referente a Experiencia do Usuario (UX Design), criando uma pagina de facil utilização e entendimento do usuario.
 
 ## Site Publicado no link abaixo
- * https://vazfernando.github.io/projeto-android/
+ * https://vazfernando.github.io/projeto_cordel_xilogravura_parallax/
